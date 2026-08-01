@@ -21,7 +21,7 @@ A lightweight, real-time Python background utility that watches a designated fol
 
 ## 🛠️ Project Structure
 
-
+```text
 automated_file_organizer/
 ├── src/
 │   ├── __init__.py
