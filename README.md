@@ -1,5 +1,4 @@
-# Automated-File-Organizer
-
+```markdown
 # 📂 Automated File Organizer
 
 A lightweight, real-time Python background utility that watches a designated folder (such as your `Downloads` directory) and automatically sorts incoming files into organized subfolders based on user-defined extension rules.
@@ -38,7 +37,7 @@ automated_file_organizer/
 ├── README.md               # Project documentation
 └── .gitignore
 
-
+```
 
 ---
 
@@ -52,7 +51,7 @@ Make sure you have **Python 3.8+** installed on your system.
 
 Clone the repository to your local machine and set up a virtual environment:
 
-'''bash
+```bash
 git clone [https://github.com/YOUR_USERNAME/automated_file_organizer.git](https://github.com/YOUR_USERNAME/automated_file_organizer.git)
 cd automated_file_organizer
 
