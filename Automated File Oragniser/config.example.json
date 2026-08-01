@@ -1,0 +1,13 @@
+{
+    "watch_directory": "/Users/YOUR_USERNAME/Downloads",
+    "default_folder": "Uncategorized",
+    "rules": {
+        "Images": [".jpg", ".jpeg", ".png", ".gif", ".svg", ".webp"],
+        "PDFs": [".pdf"],
+        "Archives": [".zip", ".rar", ".tar", ".gz", ".7z"],
+        "Documents": [".doc", ".docx", ".txt", ".csv", ".xlsx", ".pptx"],
+        "Audio": [".mp3", ".wav", ".flac", ".m4a"],
+        "Video": [".mp4", ".mkv", ".mov", ".avi"],
+        "Installers": [".exe", ".dmg", ".pkg", ".msi"]
+    }
+}
