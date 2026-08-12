@@ -114,12 +114,6 @@ The script will begin running in the foreground, outputting its actions to the c
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/automated_file_organizer/issues).
 
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
 ```
 
 ```
