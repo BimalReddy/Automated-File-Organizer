@@ -49,8 +49,7 @@ Make sure you have **Python 3.8+** installed on your system.
 Clone the repository to your local machine and set up a virtual environment:
 
 ```bash
-git clone [https://github.com/BimalReddy/Automated-File-Organizer.git](https://github.com/YOUR_USERNAME/Automated_
--File-Organizer.git)
+git clone https://github.com/BimalReddy/Automated-File-Organizer.git
 cd automated_file_organizer
 
 # Create a virtual environment
