@@ -9,9 +9,9 @@ A lightweight, real-time Python background utility that watches a designated fol
 
 - **Real-Time Monitoring:** Uses OS-level events via the `watchdog` library to detect new files instantaneously.
 - **Configurable Rules:** Define your own folder mappings via a simple `config.json` file—no code changes required.
-- **Collision Resolution:** Automatically renames incoming duplicate files (e.g., `document (1).pdf`) instead of overwriting your existing data.
+- **Collision Resolution:** Automatically renames incoming duplicate files instead of overwriting your existing data.
 - **Large File Ready:** Intelligently waits for large file transfers (like 4K videos or huge archives) to finish writing to the disk before attempting to move them.
-- **Browser Download Safe:** Ignores partial browser download extensions (`.crdownload`, `.part`, `.tmp`) until the transfer completely finishes.
+- **Browser Download Safe:** Ignores partial browser download extensions until the transfer completely finishes.
 
 ---
 
@@ -49,7 +49,8 @@ Make sure you have **Python 3.8+** installed on your system.
 Clone the repository to your local machine and set up a virtual environment:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/automated_file_organizer.git](https://github.com/YOUR_USERNAME/automated_file_organizer.git)
+git clone [https://github.com/BimalReddy/Automated-File-Organizer.git](https://github.com/YOUR_USERNAME/Automated_
+-File-Organizer.git)
 cd automated_file_organizer
 
 # Create a virtual environment
@@ -90,7 +91,7 @@ cp config.example.json config.json
 ```
 
 
-*(Note: Remember to change the `watch_directory` path to match your actual operating system's folder path.)*
+*(Note: Remember to change the `watch_directory` path to match your actual folder path.)*
 
 ---
 
