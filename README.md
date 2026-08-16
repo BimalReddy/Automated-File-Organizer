@@ -109,4 +109,4 @@ The script will begin running in the foreground, outputting its actions to the c
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/BimalReddy/automated_file_organizer/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/BimalReddy/automated_file_organizer/issues).
