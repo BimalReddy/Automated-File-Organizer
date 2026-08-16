@@ -106,7 +106,3 @@ python src/main.py -c config.json
 The script will begin running in the foreground, outputting its actions to the console. To stop the organizer, simply press `Ctrl + C` in your terminal.
 
 ---
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/BimalReddy/automated_file_organizer/issues).
