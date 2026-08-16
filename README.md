@@ -3,9 +3,6 @@
 
 A lightweight, real-time Python background utility that watches a designated folder (such as your `Downloads` directory) and automatically sorts incoming files into organized subfolders based on user-defined extension rules.
 
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
 ## ✨ Features
